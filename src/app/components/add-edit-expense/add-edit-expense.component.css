@@ -6,3 +6,7 @@ mat-form-field {
     width: 100%;
     margin: 5px;
 }
+
+.btn-accept{
+    margin-right: 10px;
+}
